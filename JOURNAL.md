@@ -4,7 +4,7 @@ author: "info-fiend"
 description: "DIY mechanical keyboard, in the shape of a bunny"
 created_at: "2025-05-25"
 ---
-### 🐰 Total Time Spent: 18hrs
+### 🐰 Total Time Spent: 21hrs
 May 25, 2025
 ---
 *LOG #001:*
@@ -42,3 +42,11 @@ ADDED cute silkscreen!!! I hope everything with the pcb is done so i can suffer 
 
 TIME SPENT: 8 HOURS
 
+May 28, 2025
+---
+*LOG #005:* 
+I thought i should update, although i dont have any pictures to show. past few days ive been spending an hour staring at fusion360 and bawling my eyes out. im sooo lost idk where to place the screws, how big the pcb should be, how screws work?!?! i gotta go back to basics i think. heres some of the videos ive been referencing: https://youtu.be/7azQkSu0m_U?si=2aB4zap5jxJfCtVR
+https://youtu.be/iv__343ZwE0?si=1xBRvbvu9lzkbzXI
+https://youtu.be/XKWoeBwpVNg?si=zLpGdxSLkxk3WTyA
+
+TIME SPENT: 3 HOURS
