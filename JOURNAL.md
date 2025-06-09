@@ -4,7 +4,7 @@ author: "info-fiend"
 description: "DIY mechanical keyboard, in the shape of a bunny"
 created_at: "2025-05-25"
 ---
-### 🐰 Total Time Spent: 21hrs
+### 🐰 Total Time Spent: 25hrs
 May 25, 2025
 ---
 *LOG #001:*
@@ -30,7 +30,7 @@ ohhh gods. i spebt like five hours stressing over the switch placement and looki
 
 TIME SPENT: 5 HOURS
 
-May 28, 2025
+June 1, 2025
 ---
 *LOG #004:* 
 i actually dont remember spending this much time on this until i looked at the time. tdy i finished the pcb, ran the checks and it looks good. used the plugin and it made my life 50% easier. routing lowkey had me stressing out, im not sure if its supposed to be so messy. i prolly shoudlnt have spent so long on something like this T_t ---
@@ -42,7 +42,7 @@ ADDED cute silkscreen!!! I hope everything with the pcb is done so i can suffer 
 
 TIME SPENT: 8 HOURS
 
-May 28, 2025
+June 4, 2025
 ---
 *LOG #005:* 
 I thought i should update, although i dont have any pictures to show. past few days ive been spending an hour staring at fusion360 and bawling my eyes out. im sooo lost idk where to place the screws, how big the pcb should be, how screws work?!?! i gotta go back to basics i think. heres some of the videos ive been referencing: 
@@ -51,3 +51,11 @@ I thought i should update, although i dont have any pictures to show. past few d
 * https://youtu.be/XKWoeBwpVNg?si=zLpGdxSLkxk3WTyA
 
 TIME SPENT: 3 HOURS
+
+June 8, 2025
+---
+*LOG #006:* 
+i rlly should be working on this more often, wanna finsih this so i can get to other stuff T_T. decided to re-route the pcb and am getting jealous at other people's boards on reddit. ueeerrrggh oh a problem im running into is that the pcb is way too big for the plate.. getting the measurements right is turning out to be v difficult. tears shed: 20.5 
+
+TIME SPENT: 4 HOURS
+
