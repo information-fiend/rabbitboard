@@ -4,7 +4,7 @@ author: "info-fiend"
 description: "DIY mechanical keyboard, in the shape of a bunny"
 created_at: "2025-05-25"
 ---
-### 🐰 Total Time Spent: 25hrs
+### 🐰 Total Time Spent: 30hrs
 May 25, 2025
 ---
 *LOG #001:*
@@ -58,4 +58,14 @@ June 8, 2025
 i rlly should be working on this more often, wanna finsih this so i can get to other stuff T_T. decided to re-route the pcb and am getting jealous at other people's boards on reddit. ueeerrrggh oh a problem im running into is that the pcb is way too big for the plate.. getting the measurements right is turning out to be v difficult. tears shed: 20.5 
 
 TIME SPENT: 4 HOURS
+
+June 12, 2025
+---
+*LOG #007:* 
+chat im already planning my next project nd i havent even finished this one * sob * gosh oh okay so today i routed the pcb again and its so embarrassing how messy it is. like i hope that it just *works*. then i cried over autofusion, and then i finally figured how i was going to make it!! kinda. i want it to be gasket mounted, and thankfully i dont have to put screws in the pcb for that, but i'd i have to look more into it. there are some really goated YT videos im following and im learnin a lot. i finally extruded the plate to 5mm, part of it is cut by 1.5 so the switches can click. im a little unsure about the top part of the case and how im going to get the exact measurements for the knob and oled. i honestly dont want to touch kicad for the rest of the week lol
+<img width="1134" alt="Screenshot 2025-06-12 at 8 48 52 PM" src="https://github.com/user-attachments/assets/6aa8d049-c1ed-4442-859d-a0036e36144d" /> <img width="593" alt="Screenshot 2025-06-12 at 8 49 11 PM" src="https://github.com/user-attachments/assets/bb8571cd-b0a6-48e1-bc29-038dfb2f1aa5" /> <img width="951" alt="Screenshot 2025-06-12 at 8 49 22 PM" src="https://github.com/user-attachments/assets/760cd3e4-4eb9-476b-a5e6-3c3d4b51a5c9" />
+
+
+
+TIME SPENT: 5 HOURS
 
