@@ -4,7 +4,7 @@ author: "info-fiend"
 description: "DIY mechanical keyboard, in the shape of a bunny"
 created_at: "2025-05-25"
 ---
-### 🐰 Total Time Spent: 30hrs
+### 🐰 Total Time Spent: 47hrs
 May 25, 2025
 ---
 *LOG #001:*
@@ -63,9 +63,33 @@ June 12, 2025
 ---
 *LOG #007:* 
 chat im already planning my next project nd i havent even finished this one * sob * gosh oh okay so today i routed the pcb again and its so embarrassing how messy it is. like i hope that it just *works*. then i cried over autofusion, and then i finally figured how i was going to make it!! kinda. i want it to be gasket mounted, and thankfully i dont have to put screws in the pcb for that, but i'd i have to look more into it. there are some really goated YT videos im following and im learnin a lot. i finally extruded the plate to 5mm, part of it is cut by 1.5 so the switches can click. im a little unsure about the top part of the case and how im going to get the exact measurements for the knob and oled. i honestly dont want to touch kicad for the rest of the week lol
-<img width="1134" alt="Screenshot 2025-06-12 at 8 48 52 PM" src="https://github.com/user-attachments/assets/6aa8d049-c1ed-4442-859d-a0036e36144d" /> <img width="593" alt="Screenshot 2025-06-12 at 8 49 11 PM" src="https://github.com/user-attachments/assets/bb8571cd-b0a6-48e1-bc29-038dfb2f1aa5" /> <img width="951" alt="Screenshot 2025-06-12 at 8 49 22 PM" src="https://github.com/user-attachments/assets/760cd3e4-4eb9-476b-a5e6-3c3d4b51a5c9" />
 
-
+<img width="500" alt="Screenshot 2025-06-12 at 8 48 52 PM" src="https://github.com/user-attachments/assets/6aa8d049-c1ed-4442-859d-a0036e36144d" /> <img width="300" alt="Screenshot 2025-06-12 at 8 49 11 PM" src="https://github.com/user-attachments/assets/bb8571cd-b0a6-48e1-bc29-038dfb2f1aa5" /> <img width="500" alt="Screenshot 2025-06-12 at 8 49 22 PM" src="https://github.com/user-attachments/assets/760cd3e4-4eb9-476b-a5e6-3c3d4b51a5c9" />
 
 TIME SPENT: 5 HOURS
 
+June 14, 2025
+---
+*LOG #008:* 
+how do i do stuff. cut out stuff for the knob and oled, took a nap (not counted in time lol), made the walls for the case. most of this time was planning how i was even going to build the case. i was going to do a tray mount orginally but wanted it to sound decent. going for a gasket mount. 
+
+<img width="500" alt="Screenshot 2025-06-19 at 1 11 36 PM" src="https://github.com/user-attachments/assets/c86871ae-18ec-4707-9264-9e1d1a3f502c" />
+<img width="476" alt="Screenshot 2025-06-19 at 1 11 53 PM" src="https://github.com/user-attachments/assets/121d3a91-ec4e-4fab-85e1-35dea11cdb45" />
+<img width="500" alt="Screenshot 2025-06-14 at 9 17 15 PM" src="https://github.com/user-attachments/assets/3afe4bc9-ae53-449a-bcb8-d46f15d1a098" />
+
+TIME SPENT: 5ish HOURS
+
+
+June 17, 2025
+---
+*LOG #009:* 
+
+
+TIME SPENT: 6 HOURS
+
+June 18, 2025
+---
+*LOG #010:* 
+
+
+TIME SPENT: 6 HOURS
