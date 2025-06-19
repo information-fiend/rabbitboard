@@ -83,13 +83,29 @@ TIME SPENT: 5ish HOURS
 June 17, 2025
 ---
 *LOG #009:* 
+HOW DO SCREWS WORK??? why am i doing math for this seemingly simple design... super confused how im going to do the top part of the case. im thinking of putting the gasket material on the purple things, extend the plate on those edges.. if that makes sense. gonna remake the walls. its very much slowly falling tg. i just wanna be done w this soo i can submitttt.
+W video: https://youtu.be/KGMqOSjap68?si=YmXH_uzN2ZAdoxzA
 
+<img width="500" alt="Screenshot 2025-06-19 at 1 28 41 PM" src="https://github.com/user-attachments/assets/670c6088-5a41-4b8b-be02-769087b8327b" />
+<img width="500" alt="Screenshot 2025-06-19 at 1 28 17 PM" src="https://github.com/user-attachments/assets/b717b74f-7bc9-4f24-92d7-8ec0f2b4fba0" />
+<img width="500" alt="Screenshot 2025-06-19 at 1 27 58 PM" src="https://github.com/user-attachments/assets/20f7f4da-8640-40ff-81c0-af1aece85b70" />
 
 TIME SPENT: 6 HOURS
 
 June 18, 2025
 ---
 *LOG #010:* 
+everything lowk went smoothly tdy. spent more time getting the design right before extruding stuff, fusion is getting easier to use. im actually not sure how im going to put the first part of the top part with the other part.. words. uh. bcos i want it to be like different colors?? idk if i have to do technical talk in these journals but i highkey have NO idea what im doing.
+to-do:
+* fix the screw holes
+* put fillets everywhere
+* double check meaurements
+* put the bunny :D
+
+<img width="500" alt="Screenshot 2025-06-19 at 1 57 21 PM" src="https://github.com/user-attachments/assets/9c616090-713b-4fb7-be64-eb1523607041" />
+<img width="500" alt="Screenshot 2025-06-19 at 1 57 39 PM" src="https://github.com/user-attachments/assets/eda852c6-961b-4e34-a432-0dfceaba8dfd" />
+<img width="500" alt="Screenshot 2025-06-19 at 1 58 27 PM" src="https://github.com/user-attachments/assets/9a1d7779-4328-441f-bfc9-22abdde322e5" />
+<img width="500" alt="Screenshot 2025-06-19 at 1 58 43 PM" src="https://github.com/user-attachments/assets/f15158ce-7ac0-456a-8626-717ca4da6ca5" />
 
 
 TIME SPENT: 6 HOURS
