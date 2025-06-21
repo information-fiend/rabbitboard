@@ -112,7 +112,20 @@ TIME SPENT: 6 HOURS
 June 21, 2025
 ---
 *LOG #011:* 
-put da text here
+TO-DO:
+* make BOM
+* make the QMK (or KMK idk yet)
+* upload files for CAD
+* contemplate life and my existence in it
+* put feet on the bottom of case
+* update readme
+
+ngl i dont feel time passing when i work on this, so its weird writing up what i did. its fun looking back at the journal tho!! i came pretty close to redoing the case itself. like reallly close. decided that the plate was just going to sit atop the bottom part instead of being screwed in. the top case had some errors, but i hopefully solved them. i heard someone say when you make a mistake in crochet, it gives it personality. i was applying the same thing here to make myself feel better lol
+all i do is yap here, so here's some measurements:
+* countersink for screw: 3.6x1.5mm
+* screw shaft: 2mm
+* height of entire thing: 23mm
+* width of bunny head: 104mm
 
 <img width="500" alt="Screenshot 2025-06-21 at 7 16 30 PM" src="https://github.com/user-attachments/assets/43bd2384-f4f8-4795-bfa8-a88494e460db" />
 <img width="500" alt="Screenshot 2025-06-21 at 7 17 01 PM" src="https://github.com/user-attachments/assets/219ca70e-4f1a-44ad-b72c-bc9a5f66ba5b" />
