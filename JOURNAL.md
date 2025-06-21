@@ -4,7 +4,7 @@ author: "info-fiend"
 description: "DIY mechanical keyboard, in the shape of a bunny"
 created_at: "2025-05-25"
 ---
-### 🐰 Total Time Spent: 47hrs
+### 🐰 Total Time Spent: 52hrs
 May 25, 2025
 ---
 *LOG #001:*
@@ -107,5 +107,15 @@ to-do:
 <img width="500" alt="Screenshot 2025-06-19 at 1 58 27 PM" src="https://github.com/user-attachments/assets/9a1d7779-4328-441f-bfc9-22abdde322e5" />
 <img width="500" alt="Screenshot 2025-06-19 at 1 58 43 PM" src="https://github.com/user-attachments/assets/f15158ce-7ac0-456a-8626-717ca4da6ca5" />
 
-
 TIME SPENT: 6 HOURS
+
+June 21, 2025
+---
+*LOG #011:* 
+put da text here
+
+<img width="500" alt="Screenshot 2025-06-21 at 7 16 30 PM" src="https://github.com/user-attachments/assets/43bd2384-f4f8-4795-bfa8-a88494e460db" />
+<img width="500" alt="Screenshot 2025-06-21 at 7 17 01 PM" src="https://github.com/user-attachments/assets/219ca70e-4f1a-44ad-b72c-bc9a5f66ba5b" />
+<img width="500" alt="Screenshot 2025-06-21 at 7 17 25 PM" src="https://github.com/user-attachments/assets/f14b7698-f368-4cbe-88a0-c04593317b90" />
+
+TIME SPENT: 5 HOURS
