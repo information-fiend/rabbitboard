@@ -138,5 +138,6 @@ June 24, 2025
 *LOG #012:* 
 
 
+<img width="500" alt="Screenshot 2025-06-24 at 7 31 42 PM" src="https://github.com/user-attachments/assets/b62602c6-27de-4fbe-85a0-b5c2dc577f8f" />
 
 TIME SPENT: 2 HOURS
