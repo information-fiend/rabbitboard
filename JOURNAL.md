@@ -4,7 +4,7 @@ author: "info-fiend"
 description: "DIY mechanical keyboard, in the shape of a bunny"
 created_at: "2025-05-25"
 ---
-### 🐰 Total Time Spent: 54hrs
+### 🐰 Total Time Spent: 55hrs
 May 25, 2025
 ---
 *LOG #001:*
@@ -136,8 +136,11 @@ TIME SPENT: 5 HOURS
 June 24, 2025
 ---
 *LOG #012:* 
-
+soooooooooo tdy i just made simple firmware. i cant exactly finalize it since KMK requires me to have access to my MCU's drive, so i did it vscode for now. i also made up a BOM, gunna try to finish everything tmrw.
+in main.py i put in bluetooth, encoder, and matrix libraries, and an extenstion so i can control the media player from my keyboard. i rlly hope im putting enough info in these logs o_o
 
 <img width="500" alt="Screenshot 2025-06-24 at 7 31 42 PM" src="https://github.com/user-attachments/assets/b62602c6-27de-4fbe-85a0-b5c2dc577f8f" />
+<img width="500" alt="Screenshot 2025-06-24 at 7 30 49 PM" src="https://github.com/user-attachments/assets/5294703b-0df2-424c-aa6b-27710d6a6bbc" />
+<img width="500" alt="Screenshot 2025-06-24 at 7 30 31 PM" src="https://github.com/user-attachments/assets/c538cd56-f70a-4ff2-8be6-74ac4be31211" />
 
-TIME SPENT: 2 HOURS
+TIME SPENT: 3 HOURS
