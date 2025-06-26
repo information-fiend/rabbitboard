@@ -1,16 +1,13 @@
 # rabbitboard
-rabbitpad but biggerrrrr
+A 65% mechanical keyboard with a knob and screen. 
 
-submission outlineee:
-
-    A description of what your project is
-    A couple sentences on why you made the project
-    PICTURES OF YOUR PROJECT
+### 📷 Pictures
+PICTURES OF YOUR PROJECT
         A screenshot of a full 3D model with your project
         A screenshot of your PCB, if you have one
         A wiring diagram, if you're doing any wiring that isn't on a PCB
-    A BOM in table format at the end of the README
 
+### BOM
 |Qty| Device|	Link	|Cost	|
 |---|-----|--------|-------|
 65|	Through-hole 1N4148 Diodes	|[Link](https://www.aliexpress.us/item/3256807621334582.html?spm=a2g0o.productlist.main.1.50f12c82bUE2UV&algo_pvid=27e25c8f-8c60-43dc-923e-169df02358de&algo_exp_id=27e25c8f-8c60-43dc-923e-169df02358de-0&pdp_ext_f=%7B%22order%22%3A%2298%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.29%211.05%21%21%211.29%211.05%21%402101ea8c17508919477924838e28ed%2112000042270438468%21sea%21US%210%21ABX&curPageLogUid=Lgtjbk117rUA&utparam-url=scene%3Asearch%7Cquery_from%3A)|	$1.05
