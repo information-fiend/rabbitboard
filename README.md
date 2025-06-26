@@ -1,11 +1,12 @@
 # rabbitboard
-A 65% mechanical keyboard with a knob and screen. 
+A 65% mechanical keyboard with a knob and screen. After making a macropad, holding it felt like *whoa* i wanna make more. Started designing back in March but finished it cuz of Highway! 
 
 ### 📷 Pictures
-PICTURES OF YOUR PROJECT
-        A screenshot of a full 3D model with your project
-        A screenshot of your PCB, if you have one
-        A wiring diagram, if you're doing any wiring that isn't on a PCB
+<img width="900" alt="Screenshot 2025-06-25 at 10 28 07 PM" src="https://github.com/user-attachments/assets/4c718a5d-89e5-4f23-9822-39fab6f4135d" />
+<img width="500" alt="Screenshot 2025-06-25 at 10 28 33 PM" src="https://github.com/user-attachments/assets/b205c4ae-8a35-434c-8012-9d82ceecc876" />
+<img width="500" alt="Screenshot 2025-06-25 at 10 23 50 PM" src="https://github.com/user-attachments/assets/b61b08ab-f89b-4f01-aa33-05b1ea6ab11f" />
+<img width="500" alt="Screenshot 2025-06-25 at 10 23 29 PM" src="https://github.com/user-attachments/assets/9bed8558-c20a-45be-a4bc-e33920683f30" />
+<img width="500" alt="Screenshot 2025-06-25 at 10 22 30 PM" src="https://github.com/user-attachments/assets/ad2e24bc-1e3a-4fe6-b3b6-4217bc380919" />
 
 ### BOM
 |Qty| Device|	Link	|Cost	|
