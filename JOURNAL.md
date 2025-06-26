@@ -4,7 +4,7 @@ author: "info-fiend"
 description: "DIY mechanical keyboard, in the shape of a bunny"
 created_at: "2025-05-25"
 ---
-### 🐰 Total Time Spent: 55hrs
+### 🐰 Total Time Spent: 57hrs
 May 25, 2025
 ---
 *LOG #001:*
@@ -144,3 +144,15 @@ in main.py i put in bluetooth, encoder, and matrix libraries, and an extenstion 
 <img width="500" alt="Screenshot 2025-06-24 at 7 30 31 PM" src="https://github.com/user-attachments/assets/c538cd56-f70a-4ff2-8be6-74ac4be31211" />
 
 TIME SPENT: 3 HOURS
+
+June 25, 2025
+---
+*LOG: #013:* after submitting...
+
+<img width="500" alt="Screenshot 2025-06-25 at 10 56 36 PM" src="https://github.com/user-attachments/assets/80c56e58-6139-41f5-b6d5-e8c7cb795f0c" />
+pure euphoria. 
+
+wrapped up basically everything, mostly finding links for the bill of mats. see you when it gets buillltttttt :)
+
+TIME SPENT: 2 HOURS
+
