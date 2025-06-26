@@ -11,7 +11,7 @@ submission outlineee:
         A wiring diagram, if you're doing any wiring that isn't on a PCB
     A BOM in table format at the end of the README
 
-|Unit| Qty|	Device	|Link	|
+|Qty| Device|	Link	|Cost	|
 |---|-----|--------|-------|
 65|	Through-hole 1N4148 Diodes	|[Link](https://www.aliexpress.us/item/3256807621334582.html?spm=a2g0o.productlist.main.1.50f12c82bUE2UV&algo_pvid=27e25c8f-8c60-43dc-923e-169df02358de&algo_exp_id=27e25c8f-8c60-43dc-923e-169df02358de-0&pdp_ext_f=%7B%22order%22%3A%2298%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.29%211.05%21%21%211.29%211.05%21%402101ea8c17508919477924838e28ed%2112000042270438468%21sea%21US%210%21ABX&curPageLogUid=Lgtjbk117rUA&utparam-url=scene%3Asearch%7Cquery_from%3A)|	$1.05
 1	|EC11 Rotary encoders	|[Link](https://www.aliexpress.us/item/3256804721655912.html?spm=a2g0o.productlist.main.1.77324f4dhjIsyp&algo_pvid=5a8207c4-5f5f-41b3-8e0e-15b093b58d0f&algo_exp_id=5a8207c4-5f5f-41b3-8e0e-15b093b58d0f-0&pdp_ext_f=%7B%22order%22%3A%22862%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.45%212.25%21%21%2117.46%2116.03%21%40210318ec17508936740954018e19d5%2112000035534364746%21sea%21US%210%21ABX&curPageLogUid=d2XXoDwGFi6m&utparam-url=scene%3Asearch%7Cquery_from%3A)|	$3.85
