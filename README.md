@@ -26,3 +26,4 @@ A 65% mechanical keyboard with a knob and screen. After making a macropad, holdi
 1	|Bottom case	|PCBWay	|$19.80|
 1	|Plate	|PCBWay	|$11.61|
 1	|Top case	|PCBWay|	$22.96|
+|         |   |    | = $147.71
