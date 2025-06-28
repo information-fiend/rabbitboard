@@ -27,3 +27,7 @@ A 65% mechanical keyboard with a knob and screen. After making a macropad, holdi
 1	|Plate	|PCBWay	|$11.61|
 1	|Top case	|PCBWay|	$22.96|
 |         |   |    | = $147.71
+
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
