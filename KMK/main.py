@@ -15,8 +15,8 @@ keyboard = KMKKeyboard()
 #knobssss
 encoder_handler.pins = (
     # regular direction encoder and a button
-    (board.GP17, board.GP15, board.GP14,),
-)
+    (board.GP17, board.GP15, board.GP14)
+),
 
 keyboard.keymap = [  # qwerty
         KC.ESC,    KC.N1,     KC.N2,     KC.N3,     KC.N4,     KC.N5,          KC.N6,     KC.N7,     KC.N8,     KC.N9,     KC.N0,     KC.MINS, KC.EQL, KC.BSPACE,
