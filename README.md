@@ -4,7 +4,9 @@
 </h2>
 &nbsp;
 
-> A 65% mechanical keyboard with a knob and screen. After making a macropad, holding it felt like *whoa* i wanna make more. Started designing back in March but finished it cuz of Highway! 
+> A 65% mechanical keyboard with a knob and screen. 
+
+After making a macropad, holding it felt like *whoa* i wanna make more. Started designing back in March but finished it cuz of Highway! 
 
 ### 📷 Pictures
 <img width="900" alt="Screenshot 2025-06-25 at 10 28 07 PM" src="https://github.com/user-attachments/assets/4c718a5d-89e5-4f23-9822-39fab6f4135d" />
